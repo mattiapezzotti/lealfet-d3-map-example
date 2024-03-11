@@ -1,0 +1,19 @@
+#map {
+    height: 99vh;
+    z-index: 0;
+}
+
+#findPlace{
+    position: absolute;
+    top: 20px;
+    left: 60px;
+    z-index: 1;
+    padding: 5px;
+    background-color: mediumaquamarine;
+    color: black;
+}
+
+body{
+    height: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
